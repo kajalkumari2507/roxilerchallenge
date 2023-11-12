@@ -1,0 +1,10 @@
+.stats-table{
+    width: 100%;
+}
+.stats-table .title{
+    font-weight: 500;
+}
+
+.stats-card{
+    align-self: center;
+}
