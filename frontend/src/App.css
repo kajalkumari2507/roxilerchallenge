@@ -1,0 +1,19 @@
+.app{
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.charts{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.pie-chart{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 50%;
+  height: auto;
+}
